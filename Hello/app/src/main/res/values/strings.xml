@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_click_me">Click Me!</string>
+    <string name="btn_forget_password"><i><u>Forget Password?</u></i></string>
+    <string name="btn_newseller"><i><u>New Seller? Register</u></i></string>
+    <string name="btn_to_login"><i><u>to Login</u></i></string>
+</resources>
